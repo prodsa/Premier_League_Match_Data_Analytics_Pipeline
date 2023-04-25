@@ -32,7 +32,7 @@ Location of generated ‘Standings.csv’ file from standings report dataframe (
 C:/Users/username/OneDrive/Desktop/Data_Engineering/Projects/Premier_League_Match_Data_Analytics_Pipeline/Output/Standings.csv
 
 Location of context file:
-C:/Users/prono/OneDrive/Desktop/Data_Engineering/Projects/Premier_League_Match_Data_Analytics_Pipeline/Source/ATT82825.env
+C:/Users/username/OneDrive/Desktop/Data_Engineering/Projects/Premier_League_Match_Data_Analytics_Pipeline/Source/ATT82825.env
 
 Number of input parameters needed from user: 3
 
