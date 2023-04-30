@@ -1,20 +1,20 @@
 POSITION,CLUB,MATCHES_PLAYED,WIN,DRAW,LOSS,GOALS_FOR,GOALS_AGAINST,GOAL_DIFFERENCE,POINTS
-1,Liverpool,13,8,5,0,30,12,18,29
-2,Man United,11,8,2,1,26,15,11,26
-3,Everton,12,8,1,3,19,12,7,25
-4,Aston Villa,13,7,2,4,19,10,9,23
-5,Leeds,12,7,1,4,26,18,8,22
-6,Leicester,12,6,2,4,18,13,5,20
-7,West Ham,13,5,4,4,18,17,1,19
-8,Wolves,13,5,3,5,13,14,-1,18
-9,Chelsea,13,4,5,4,20,16,4,17
-10,Burnley,11,4,2,5,7,11,-4,14
-11,Southampton,11,3,5,3,15,14,1,14
-12,Tottenham,11,3,5,3,14,13,1,14
-13,Arsenal,12,4,2,6,13,15,-2,14
-14,Crystal Palace,13,3,4,6,11,23,-12,13
-15,Newcastle,11,3,4,4,12,18,-6,13
-16,Brighton & Hove Albion,12,2,6,4,14,17,-3,12
-17,Fulham,11,1,5,5,11,19,-8,8
-18,West Brom,12,1,4,7,9,25,-16,7
-19,Sheffield United,12,0,2,10,5,18,-13,2
+1,Liverpool,11,8,3,0,29,11,18,27
+2,Everton,10,7,1,2,18,11,7,22
+3,Man United,8,6,1,1,21,12,9,19
+4,Aston Villa,10,6,1,3,14,7,7,19
+5,Leicester,10,6,0,4,15,10,5,18
+6,Wolves,11,5,2,4,12,12,0,17
+7,Leeds,10,5,1,4,20,18,2,16
+8,Chelsea,11,4,4,3,18,12,6,16
+9,West Ham,10,4,2,4,15,15,0,14
+10,Tottenham,10,3,4,3,13,12,1,13
+11,Crystal Palace,11,3,3,5,10,19,-9,12
+12,Newcastle,10,3,3,4,12,18,-6,12
+13,Southampton,9,3,3,3,15,14,1,12
+14,Burnley,9,3,2,4,6,10,-4,11
+15,Brighton & Hove Albion,10,2,5,3,12,14,-2,11
+16,Arsenal,10,2,2,6,9,14,-5,8
+17,Fulham,10,1,4,5,11,19,-8,7
+18,West Brom,10,1,3,6,8,19,-11,6
+19,Sheffield United,10,0,2,8,5,16,-11,2
